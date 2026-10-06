@@ -1,3 +1,3 @@
-# Nicolas B. — document hosting
+Nicolas B. Digital Profile assets.
 
-GitHub Pages files for CV and portfolio. The main visual Digital Profile remains on Carrd.
+CV and portfolio are responsive web pages. Portfolio keeps all 23 pages and a clickable index. All back links return to https://nbnntdp.carrd.co.
